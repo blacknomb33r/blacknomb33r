@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @blacknomb33r
 - 👀 I’m interested in learning coding.
-- 🌱 I’m currently learning with Swift Playground, Karel, Self-Courses and Self-Projects.
+- 🌱 I’m currently learning with Python, Self-Courses and Self-Projects.
 - 💞️ I’m looking to collaborate on with everyone who like to work with me. And maybe show me something :) 
-- 📚 I would like to learn Swift and Python. :) 
+- 📚 I would like to learn Python. :) 
 - 📫 How to reach me DM me :) 
 
 <!---
