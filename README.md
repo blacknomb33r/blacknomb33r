@@ -2,7 +2,7 @@
 blacknomb33r/blacknomb33r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# 💫 About Me:
+# 🤖 About Me:
 👋 Hi, I’m @blacknomb33r<br>👀 I’m interested in Machine Learning, AI in general, Data Analysis, Big Data, <br>🌱 I’m currently studying myself in Python, SQL, Excel for ML and Data Analysis.<br>💞️ I’m looking to collaborate on with everyone who like to work with me. And maybe show me something :)<br>📚 I like to learn Python, SQL and Excel<br>🚀 "The most important Project is yourself. Make it a great one."
 
 
